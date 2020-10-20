@@ -1,64 +1,65 @@
-# notes
+# 知识库
 
-<!--
+## 推荐书目
 
-- [笔记](#笔记)
-  - [基本概念](#基本概念)
-  - [总览](#总览)
-- [计算机网络](#计算机网络)
-  -->
+(暂时列出来，稍后做整理)
 
-<!-- - [写在前面](#写在前面)-->
+### 科普类
 
-<!--## 写在前面
+编码(*Code: The Hidden Language of Computer Hardware and Software*)
 
-这学期我觉得很忙，有计算机网络和编译原理这两门计算机的大课，更不用说硬核的数值分析和其他专业选修。
-
-所以，我创建这个项目的目的就是希望能集思广益，大家分别负责一些部分的学习，然后分享出来，促进各自的理解。
-
-关于看书的方面，从我的个人角度来讲，绝不应该从头到尾一步一步看完；而是首先应该了解知识的框架，知道有哪些部分，每部分讲了什么。知道了框架，然后再确定自己要钻研具体的部分。
-
-毕竟，我们是来解决问题的，不是当专家。我们是以一个程序员的视角：**A programmer's perspective**
-
-具体参见：
-
-[计算机学习的思考](https://www.zhihu.com/question/22608820/answer/21968467)
-
-[编译原理学习经验](https://www.zhihu.com/question/27500017/answer/36958332)
-
-> **L** short for Lexical analysis
-
-> **P** short for Parsing
-
-> **S** short for Semantic analysis
-
-> **O** short for Optimization
-
-> **CG** short for Code Generation
-
-![](D:/文档/GitHub/juniorTeam/compiler/doc/resource/focus.jpg)
-
--->
+网络是怎样连接的
 
 
 
-<!--## 笔记
+### 专业类
 
-### 基本概念
+#### 数学
 
-[参考链接](https://juejin.im/post/6844903853805027335)
+概率论与数理统计(*陈希孺*)
 
-![](./doc/resource/main.jpg)
+线性代数及其应用(*Linear Algebra and Its Applications*)
 
-### 总览
-![](./doc/resource/overview.jpg)
-***
+线性代数(*Introduction to Linear Algebra*)
 
-***
 
-## 计算机网络
 
-未完成，欢迎补充
+#### 英语
 
-![](./doc/resource/network.jpg)
--->
+Word Power Made Easy
+
+Merriam-Webster's Vocabulary Builder
+
+
+
+#### 计算机系统
+
+深入理解计算机系统(*Computer System: A Programmer’s Perspective*)
+
+计算机网络：自顶向下方法(*Computer Network: A Top-down View*)
+
+数据密集型应用系统设计(*Designing Data-Intensive Applications*)
+
+
+
+#### 数据结构与算法
+
+数据结构C++语言版(*邓俊辉 清华大学出版社*)
+
+挑战程序设计竞赛
+
+
+
+#### 编程语言
+
+C语言程序设计(*C Programming: A Modern Approach*)
+
+C++ Primer
+
+python语言及其应用(*Introducing Python*)
+
+流畅的python(*Fluent Python*)
+
+python数据科学手册(*Python Data Science Handbook*)
+
+python机器学习(*Deep Learning with Python*)
