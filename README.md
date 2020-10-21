@@ -56,6 +56,10 @@ C语言程序设计(*C Programming: A Modern Approach*)
 
 C++ Primer
 
+Effective Modern C++
+
+Java编程思想(*Thinking in Java*)
+
 python语言及其应用(*Introducing Python*)
 
 流畅的python(*Fluent Python*)
