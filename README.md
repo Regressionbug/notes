@@ -22,6 +22,8 @@
 
 线性代数(*Introduction to Linear Algebra*)
 
+数值分析(*Numerical Analysis*)
+
 
 
 #### 英语
@@ -40,6 +42,12 @@ Merriam-Webster's Vocabulary Builder
 
 数据密集型应用系统设计(*Designing Data-Intensive Applications*)
 
+Unix环境高级编程(*Advanced Programming in the Unix Environment*)
+
+Unix网络编程(*Unix Network Programming*)
+
+Linux/Unix系统编程手册(*The Linux Programming Interface*)
+
 
 
 #### 数据结构与算法
@@ -52,6 +60,8 @@ Merriam-Webster's Vocabulary Builder
 
 #### 编程语言
 
+汇编语言(*王爽*)
+
 C语言程序设计(*C Programming: A Modern Approach*)
 
 C++ Primer
@@ -59,6 +69,10 @@ C++ Primer
 Effective Modern C++
 
 Java编程思想(*Thinking in Java*)
+
+On Java 8
+
+Java 8 实战(*Java 8 in Action*)
 
 python语言及其应用(*Introducing Python*)
 
